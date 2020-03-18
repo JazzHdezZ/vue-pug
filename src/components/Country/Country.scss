@@ -1,0 +1,18 @@
+template{
+    background-color: red($color: #000000);
+}
+.select{
+    border-radius: 5px;
+    border: 2px solid #e0e0e0;
+    width: 60%;
+    height: auto;
+    font-size: 16px;
+    font-family: Sofia,Helvetica,Arial,sans-serif;
+    color: grey;
+    box-shadow: none;
+    background-color: rgba(0,0,0,0);
+    cursor: pointer;
+    position: relative;
+    z-index: 2;
+    margin-bottom: 2%;
+}
